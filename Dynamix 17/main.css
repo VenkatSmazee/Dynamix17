@@ -1,0 +1,178 @@
+<style>  
+
+#desc {
+	font-family: Montserrat, sans-serif;
+	margin-bottom: 0;
+	background-color: #000;
+	border: 0;
+	font-size: 20px !important;
+	letter-spacing: 2px;
+	opacity: 0.87;
+}
+#AboutUs
+{
+	font-size:20px;
+}
+#Welcome_text
+{
+	font-size:24px;
+}
+#emergencynumber
+{
+	font-size:18px;
+}
+#address
+{
+    font-size: 20px;
+}
+#desclist
+{
+	font-size : 18px;
+	color: #fff;
+	letter-spacing : 3px;
+}
+
+#address
+{
+	font-size:14px;
+}
+#myCarousel
+{
+	margin-top:60px;	
+}
+#page_header
+{
+	color:#dd1124;
+	
+}
+#footer
+{
+	padding-top:20px;
+	color:#000;
+	opacity: 0.87;
+	
+}
+
+.purpose_title{
+	color:#dd1124
+}
+.purpose_header{
+	font-family: Monsterrat,Arial;
+	color:#dd1124;
+	font-size: 33px
+		
+}
+.purpose_body{
+	font-family: Arial, Helvetica, sans-serif;
+	color:#e2f3fa;
+	font-size: 18px;
+}
+.col-sm-12 {
+	padding-top : 50px;
+	padding-bottom : 30px;
+	font-family: arial ;
+	margin-bottom: 0;
+	background-color: #282828;
+	opacity: 0.87;
+    color: #dd1124;
+    border: 0;
+	letter-spacing: 4px;
+	opacity: 0.87;
+}
+.col-sm-4{
+	padding-top : 40px;
+    margin-top : 20px;
+    color: #dd1124;
+	
+}
+.col-sm-8{
+	
+	margin-top:20px;
+	color:#dd1124;
+    padding-top : 40px;
+    font-size: 20px;
+	
+	
+}
+.text-center{
+    font-size:15px;
+    color:#000;	
+	
+}
+
+.col-sm-6
+{
+	margin-top:20px;
+	padding-bottom :40px;
+	padding-top : 40px;
+}
+
+.col-sm-5
+{
+	margin-top:20px;
+	padding-bottom :60px;
+	padding-top : 40px;
+}
+
+.navbar {
+font-family: Montserrat, sans-serif;
+margin-bottom: 0;
+background-color: #282828;
+border: 0;
+font-size: 17px !important;
+letter-spacing: 4px;
+opacity: 0.9;}
+
+.navbar li a, .navbar  { 
+color: #e2f3fa !important;
+background-color : #282828;
+}
+.navbar-brand { 
+color: #e2f3fa !important;
+background-color : #282828;
+
+}
+.navbar-nav li a:hover {
+color: #dd1124;
+background-color : #dd1124;
+}
+.navbar-nav li.active a {
+color: #fff !important;
+background-color: #dd1124 !important;
+}
+
+.navbar-default .navbar-toggle {
+border-color: transparent;
+background-color: #fff;
+
+}
+
+.carousel-inner img {
+width :100%;
+margin: auto;
+}
+
+.carousel-caption h3 {
+color: #000 !important;
+font-size: 50px
+}
+
+.accordian
+{
+    color: #000;
+    background-color: #fff;
+    opacity: 0.9;
+}
+
+@media (max-width: 600px) {
+.carousel-caption {
+display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
+}
+
+}
+@media screen and (min-width: 480px)
+.carousel slide
+{
+height:650px;
+}
+</style>
